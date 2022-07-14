@@ -1,0 +1,36 @@
+.education {
+    margin-top: 60px;
+    margin-left: 220px;
+    border-radius: 7px;
+}
+
+.education .paper {
+    background: #14ffff;
+    width: 400px;
+    display: inline-block;
+    margin: auto;
+    border-radius: 5px;
+    position: relative;
+    text-align: center;
+    box-shadow: -1px 15px 30px -12px #14ffff;
+    z-index: 9999;
+}
+
+.education .MuiPaper-root {
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 25px;
+}
+
+.education .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+    color: #14ffff;
+}
+
+.education .css-1aquho2-MuiTabs-indicator {
+    background-color: #14ffff;
+}
+
+.education .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+    color: teal;
+}

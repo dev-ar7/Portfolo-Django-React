@@ -1,0 +1,28 @@
+.project-list {
+    margin-top: 60px;
+    margin-left: 220px;
+}
+
+.project-list .paper {
+    background-color: #14ffff;
+    color: #191f2b;
+    padding-left: 25px;
+}
+
+.project-list .MuiBox-root {
+    margin-bottom: 20px;
+}
+
+.project-list .paper .MuiButton-root {
+    background-color: #131b41;
+    color: #14ffff;
+    box-shadow: 0px 2px 2px 0px rgba(20, 255, 255, 0.50);
+}
+
+.project-list .paper .MuiButton-root svg {
+    stroke: currentcolor;
+    fill: currentcolor;
+    stroke-width: 0;
+    height: 1.4rem;
+    width: 1.4rem;
+}

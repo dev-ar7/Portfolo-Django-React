@@ -1,0 +1,97 @@
+.desc {
+    margin-left: 225px;
+    margin-top: 60px;
+}
+
+.desc h1 {
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1.2px;
+}
+
+.desc p {
+    font-size: 1.25rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1.5rem;
+    font-weight: 400;
+    line-height: 1.7;
+    color: aliceblue;
+}
+
+.MuiButton-containedPrimary {
+    background-color: white;
+    color: #121212;
+}
+
+.desc .btngrp {
+	margin-top: 15px;
+}
+
+.desc .btngrp .icon {
+	cursor: pointer;
+	box-shadow: 0px 2px 2px 0px rgba(20, 255, 255, 0.50);
+}
+
+.desc .btngrp .icon :hover {
+	color: teal;
+}
+
+.desc .bsbtn {
+	margin-top: 30px;
+}
+
+.desc .bsbtnnfts {
+	margin-top: 30px;
+	margin-left: 30px;
+}
+
+.desc .lottie {
+    width: 100%; 
+    height: 100%; 
+    transform: translate3d(0px, 0px, 0px);
+}
+
+.separator {
+	position: fixed;
+	top: auto;
+	left: 0;
+	right: 0;
+	width: 100%;
+	height: 20px;
+	z-index: 1;
+	transform: translateZ(0);
+	overflow: hidden;
+	pointer-events: none;
+}
+.separator svg {
+	position: absolute;
+	pointer-events: none;
+}
+
+.separator-top {
+	top: 0;
+	bottom: auto;
+}
+.separator-top svg {
+	top: 0;
+}
+
+.separator-bottom {
+	top: auto;
+	bottom: 0;
+}
+.separator-bottom svg {
+	bottom: 0;
+}
+
+.separator-inverse {
+	transform: rotate(180deg);
+}
+
+.separator-skew {
+	height: 80px;
+}
+
+.fill-white {
+	fill: #14ffff;
+}

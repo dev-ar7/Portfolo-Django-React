@@ -1,0 +1,10 @@
+.App {
+    height: 100%;
+    display: flex;
+    position: relative;
+  }
+  
+.App .desc {
+    flex-grow: 1;
+    display: flex;
+  }
